@@ -1,0 +1,8 @@
+{
+  "name": "Kafka Node Ruby",
+  "description": "Kafka with Ruby as Producer and Node.js as Consumer",
+  "dependencies": {
+    "no-kafka": "^3.1.10"
+  },
+  "author": "test@test.com"
+}
